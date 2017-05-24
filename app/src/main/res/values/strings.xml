@@ -1,0 +1,180 @@
+<resources>
+    <string name="app_name">TravelBag</string>
+    <string name="jugar">Jugar</string>
+    <string name="admin">Admin</string>
+    <string name="add_producto">Añade un Producto</string>
+    <string name="nombre">Nombre De Usuario</string>
+    <string name="genero">Genero</string>
+    <string name="orientacion">Orientación</string>
+    <string name="nombreImagen">Nombre del Producto</string>
+    <string name="listo">Listo</string>
+    <string name="salir">Salir</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrate">Registrate</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="entrar">Entrar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="agregar">Agregar</string>
+    <string name="borrar">Borrar</string>
+    <string name="menu">Menú</string>
+    <string name="puntaje">Puntaje</string>
+    <string name="buscar">Buscar</string>
+    <string name="buscar_id">Buscar por ID</string>
+    <string name="celular">Celular</string>
+    <string name="edad">Edad</string>
+    <string name="terminos_condiciones">Terminos y condiciones</string>
+    <string name="acepto_terminos_condiciones">Acepto los terminos y condiciones</string>
+    <string name="registrar">Registrar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="nosotros">Sobre nosotros</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris mollis purus urna. Pellentesque a convallis ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc in tellus non metus aliquam aliquet eget nec turpis. Maecenas aliquet volutpat euismod. Cras in ex ac erat sodales porta. Nulla facilisi. Ut venenatis at diam et iaculis.</string>
+    <string name="bryan">Bryan Cuadrado</string>
+    <string name="leiner">Leiner Escorcia</string>
+    <string name="tipo">Tipo</string>
+    <string name="confirmar_contraseña">Confirmar Contraseña</string>
+    <string name="error_name">Digite su Nombre de Usuario</string>
+    <string name="error_img">Digite el nombre</string>
+    <string name="error_contra">Digite su Contraseña</string>
+    <string name="error_confirmar">Por favor! Confirme su Contraseña</string>
+    <string name="error_coincidir">Su Contraseña no coincide</string>
+    <string name="error_celular">Digite su Celular</string>
+    <string name="error_edad">Digite su Edad</string>
+    <string name="error_menor">Usted es demasiado joven</string>
+    <string name="error_acepto">Es necesario aceptar los terminos</string>
+    <string name="guardado">Usuario Guardado Exitosamente!</string>
+    <string name="guardado2">Producto Guardado Exitosamente!</string>
+    <string name="existir">Ya está siendo usado ese nombre de usuario</string>
+    <string name="admin_pass">1234</string>
+    <string name="error_usurio">El usuario no existe</string>
+    <string name="coincidir_login">El usuario y contraseña no coinciden</string>
+    <string name="agregar_personaje">Agregar Personaje</string>
+    <string name="consultas">Consultas</string>
+    <string name="caso">Me caso</string>
+    <string name="mato">Lo mato</string>
+    <string name="cojo">Lo cojo</string>
+    <string name="list_img">Lista de Img:</string>
+    <string name="accM">Mujer</string>
+    <string name="accE">Electronicos</string>
+    <string name="accH">Hombre</string>
+    <string name="accP">Playa</string>
+    <string name="accB">Buceo</string>
+    <string name="accC">Calzado</string>
+    <string name="accHi">Higiene</string>
+    <string name="accMa">Utilidad</string>
+    <string name="accS">Salud</string>
+    <string name="accR">Ropa</string>
+    <string name="play">Diez simples preguntas y tu lista de equipaje está lista!</string>
+    <string name="empacar">Comienza a Empacar</string>
+    <string name="categoria">Categoria</string>
+    <string name="accesoriosH">Accesorios de Hombre</string>
+    <string name="accesoriosM">Accesorios de Mujer</string>
+    <string name="accesoriosE">Accesorios de Electronicos</string>
+    <string name="accesoriosP">Accesorios de Playa</string>
+    <string name="higiene">Accesorios de Higiene</string>
+    <string name="ropa">Ropa</string>
+    <string name="salud"> Accesorios Médicos</string>
+    <string name="nadar">Accesorios para nadar</string>
+    <string name="utilidades">Utilidades</string>
+    <string name="calzado">Calzado</string>
+    <string-array name="inicio">
+        <item>@string/jugar</item>
+        <item>@string/admin</item>
+    </string-array>
+    <string-array name="opciones_admin">
+        <item>@string/add_producto</item>
+        <item>@string/consultas</item>
+    </string-array>
+    <string-array name="categorias">
+        <item>@string/accesoriosH</item>
+        <item>@string/accesoriosM</item>
+        <item>@string/accesoriosE</item>
+        <item>@string/accesoriosP</item>
+        <item>@string/higiene</item>
+        <item>@string/ropa</item>
+        <item>@string/salud</item>
+        <item>@string/nadar</item>
+        <item>@string/utilidades</item>
+        <item>@string/calzado</item>
+    </string-array>
+    <string-array name="lista">
+        <item>@string/accM</item>
+        <item>@string/accE</item>
+        <item>@string/accH</item>
+        <item>@string/accP</item>
+        <item>@string/accB</item>
+        <item>@string/accC</item>
+        <item>@string/accHi</item>
+        <item>@string/accMa</item>
+        <item>@string/accS</item>
+        <item>@string/accR</item>
+    </string-array>
+    <string-array name="dias">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string name="comienza_empacar">Comienza a empacar</string>
+    <string name="Volver" >Volver</string>
+    <string name="volver">Volver</string>
+    <string name="frase_inicio">Diez simples preguntas y tu lista de equipaje está lista!</string>
+    <string name="registrate_cuenta">¿no tienes una cuenta? ¡REGISTRATE!</string>
+    <string name="quienes_somos">¿Quienes somos?</string>
+    <string name="pregunta1">¿A dónde viajas?</string>
+    <string name="pregunta2">¿Dónde te quedas?</string>
+    <string name="pregunta3">¿Cuántos días?</string>
+    <string name="pregunta4">¿Cuál será el clima esperado?</string>
+    <string name="pregunta5">¿Motivo del viaje?</string>
+    <string name="pregunta6">Equipaje para:</string>
+    <string name="pregunta7">Deseas llevar:</string>
+    <string name="pregunta8">¿Planeas nadar?</string>
+    <string name="pregunta9">¿Harás deporte?</string>
+    <string name="pregunta10">Usas:</string>
+    <string name="otro_pais">A otro país</string>
+    <string name="a_otra_ciudad_en_mi_pais">A otra ciudad en mi país</string>
+    <string name="respuestas_noobligatorias">Las respuestas no son obligatorias</string>
+    <string name="donde_quedas">¿Dónde te quedas?</string>
+    <string name="hotel">Hotel</string>
+    <string name="apartamento_rentado">Apartamento rentado</string>
+    <string name="casa_amigo">Casa de un amigo</string>
+    <string name="cuantos_dias">¿Cuántos días?</string>
+    <string name="clima_esperado">¿Cúal sería el clima esperado?</string>
+    <string name="anterior">Anterior</string>
+    <string name="frio">Frío</string>
+    <string name="templado">Templado</string>
+    <string name="lluvioso">Lluvioso</string>
+    <string name="caliente">Caliente</string>
+    <string name="estudios">Estudios</string>
+    <string name="concierto_festival">Concierto/Festival</string>
+    <string name="boda_funeral">Boda/Funeral</string>
+    <string name="negocios">Negocios</string>
+    <string name="vacaciones">Vacaciones</string>
+    <string name="motivo_viaje">¿Motivo del viaje?</string>
+    <string name="equipaje_para">Equipaje para:</string>
+    <string name="hombre">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="camara">Camara</string>
+    <string name="portatil">Portatil</string>
+    <string name="tableta">Tableta</string>
+    <string name="deseas_llevar">Deseas llevar:</string>
+    <string name="nadaras">¿Nadarás?</string>
+    <string name="si">Si</string>
+    <string name="no">No</string>
+    <string name="haras_deporte">¿Harás deporte?</string>
+    <string name="usas">Usas:</string>
+    <string name="gafas">Gafas</string>
+    <string name="lentes_contacto">Lentes de contacto</string>
+    <string name="enviar">Enviar</string>
+    <string name="consulta1">Lista de Productos</string>
+    <string name="consulta2">Lista de Usuarios</string>
+    <string name="numero">N°</string>
+    <string name="logout">Salir</string>
+    <string name="inico">Volver al Inicio</string>
+    <string-array name="consultas_admin">
+        <item>@string/consulta1</item>
+        <item>@string/consulta2</item>
+    </string-array>
+</resources>
